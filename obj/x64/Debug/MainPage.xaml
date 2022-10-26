@@ -1,0 +1,24 @@
+﻿<Page
+    x:Class="async_app.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:async_app"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Button x:ConnectionId='2' x:Name="equal_btn" Content="=" Margin="1083,757,0,0" Height="100" Width="244" FontSize="50" VerticalAlignment="Top"                        />
+        <TextBox x:ConnectionId='3' x:Name="second_num" HorizontalAlignment="Left" Margin="755,757,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Height="100" Width="222" PlaceholderText="2. broj" FontSize="50"/>
+        <TextBlock HorizontalAlignment="Left" Margin="631,774,0,0" Text="+" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="50"/>
+        <TextBox x:ConnectionId='4' x:Name="first_num" HorizontalAlignment="Left" Margin="322,757,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Height="100" Width="222" PlaceholderText="1. broj" FontSize="50"/>
+        <TextBlock x:ConnectionId='5' x:Name="equal_text" HorizontalAlignment="Left" Margin="1408,757,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Height="100" Width="259" FontSize="50"/>
+        <Button x:ConnectionId='6' Content="NO ASYNC" Margin="397,87,0,0" VerticalAlignment="Top" Height="92" Width="666" FontSize="60"                     />
+        <Button x:ConnectionId='7' Content="ASYNC" Margin="397,340,0,0" VerticalAlignment="Top" Height="92" Width="666" FontSize="60"                       />
+        <TextBlock x:ConnectionId='8' x:Name="faktorijela_async" HorizontalAlignment="Left" Margin="1169,340,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Height="100" Width="546" FontSize="20"/>
+        <TextBlock x:ConnectionId='9' x:Name="faktorijela_no_async" HorizontalAlignment="Left" Margin="1169,87,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Height="100" Width="546" FontSize="20"/>
+
+    </Grid>
+</Page>
+

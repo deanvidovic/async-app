@@ -1,0 +1,45 @@
+C:\Users\Dean\Desktop\async app\bin\x64\Debug\App.xbf
+C:\Users\Dean\Desktop\async app\bin\x64\Debug\MainPage.xbf
+C:\Users\Dean\Desktop\async app\bin\x64\Debug\async app.xr.xml
+C:\Users\Dean\Desktop\async app\bin\x64\Debug\async app.exe
+C:\Users\Dean\Desktop\async app\bin\x64\Debug\async app.pdb
+C:\Users\Dean\Desktop\async app\bin\x64\Debug\resources.pri
+C:\Users\Dean\Desktop\async app\bin\x64\Debug\AppxManifest.xml
+C:\Users\Dean\Desktop\async app\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\Dean\Desktop\async app\bin\x64\Debug\Core\async app.exe
+C:\Users\Dean\Desktop\async app\bin\x64\Debug\async app.build.appxrecipe
+C:\Users\Dean\Desktop\async app\bin\x64\Debug\System.Runtime.dll
+C:\Users\Dean\Desktop\async app\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Dean\Desktop\async app\obj\x64\Debug\async app.csproj.AssemblyReference.cache
+C:\Users\Dean\Desktop\async app\obj\x64\Debug\App.g.i.cs
+C:\Users\Dean\Desktop\async app\obj\x64\Debug\App.g.cs
+C:\Users\Dean\Desktop\async app\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\Dean\Desktop\async app\obj\x64\Debug\MainPage.g.cs
+C:\Users\Dean\Desktop\async app\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\Dean\Desktop\async app\obj\x64\Debug\App.xaml
+C:\Users\Dean\Desktop\async app\obj\x64\Debug\MainPage.xaml
+C:\Users\Dean\Desktop\async app\obj\x64\Debug\App.xbf
+C:\Users\Dean\Desktop\async app\obj\x64\Debug\MainPage.xbf
+C:\Users\Dean\Desktop\async app\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\Dean\Desktop\async app\obj\x64\Debug\async app.csproj.CoreCompileInputs.cache
+C:\Users\Dean\Desktop\async app\obj\x64\Debug\async app.csproj.CopyComplete
+C:\Users\Dean\Desktop\async app\obj\x64\Debug\async app.exe
+C:\Users\Dean\Desktop\async app\obj\x64\Debug\async app.pdb
+C:\Users\Dean\Desktop\async app\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\Dean\Desktop\async app\obj\x64\Debug\priconfig.xml
+C:\Users\Dean\Desktop\async app\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\Dean\Desktop\async app\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\Dean\Desktop\async app\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Dean\Desktop\async app\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\Dean\Desktop\async app\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Dean\Desktop\async app\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\Dean\Desktop\async app\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Dean\Desktop\async app\obj\x64\Debug\resources.resfiles
+C:\Users\Dean\Desktop\async app\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\Dean\Desktop\async app\obj\x64\Debug\pri.resfiles
+C:\Users\Dean\Desktop\async app\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\Dean\Desktop\async app\obj\x64\Debug\qualifiers.txt
+C:\Users\Dean\Desktop\async app\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\Dean\Desktop\async app\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Dean\Desktop\async app\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\Dean\Desktop\async app\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
